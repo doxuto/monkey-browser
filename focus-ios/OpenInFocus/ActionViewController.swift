@@ -34,8 +34,7 @@ extension NSItemProvider {
 }
 
 class ActionViewController: SLComposeServiceViewController {
-    private var isKlar: Bool { return (Bundle.main.infoDictionary!["CFBundleIdentifier"] as! String).contains("Klar") }
-    private var urlScheme: String { return isKlar ? "firefox-klar" : "firefox-focus" }
+    private var urlScheme: String { return "monkey-browser" }
 
     override func isContentValid() -> Bool { return true }
     override func didSelectPost() { return }

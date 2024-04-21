@@ -1,0 +1,390 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ContentBlocker"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ContentBlocker"
+          }
+        }
+      }
+    },
+    "NSHumanReadableDescription" : {
+      "comment" : "Human readable description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ከሞዚላ የይዘት እገዳ እና የክትትል ጥበቃ"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Блакіраванне зместу і ахова ад сачэння ад Mozilla"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Защита срещу блокиране и проследяване на съдържание от Mozilla"
+          }
+        },
+        "br" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stankadur endalc’had ha gwarez heuliañ gant Mozilla"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla zaštita od blokiranja i praćenja sadržaja"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueig de contingut i protecció contra el seguiment de Mozilla"
+          }
+        },
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blucchime di cuntenutu è prutezzione contr’à u spiunagiu da Mozilla"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokování obsahu a ochrana proti sledování od Mozilly"
+          }
+        },
+        "cy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diogelwch rhwystro cynnwys a thracio gan Mozilla"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indholdsblokering og sporingsbeskyttelse fra Mozilla"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inhaltsblockierung und Tracking-Schutz von Mozilla"
+          }
+        },
+        "dsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokěrowanje wopśimjeśa a slědowański šćit wót Mozilla"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φραγή περιεχομένου και προστασία από καταγραφή από τη Mozilla"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content blocking and tracking protection from Monkey Private Web Browser"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content blocking and tracking protection from Monkey Private Web Browser"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content blocking and tracking protection from Monkey Private Web Browser"
+          }
+        },
+        "eo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokado de enhavo kaj protekto kontraŭ spurado provizita de Mozilla"
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueo de contenido y protección de rastreo de Mozilla"
+          }
+        },
+        "es-CL" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueo de contenido y protección de seguimiento de Mozilla"
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueo de contenido y protección de Mozilla contra el rastreo"
+          }
+        },
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueo de contenido y protección de seguimiento de Mozilla"
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edukia blokeatzea eta jarraipenaren babesa, Mozillak egina"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sisällön esto ja seurannan suojaus Mozillalta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocage de contenu et protection contre le pistage de Mozilla"
+          }
+        },
+        "gd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bacadh susbaint is dìon o thracadh le Mozilla"
+          }
+        },
+        "gl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueo de contido e protección contra o rastrexo de Mozilla"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "חסימת תוכן והגנת מעקב מ־Mozilla"
+          }
+        },
+        "hsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokowanje wobsaha a slědowanski škit wot Mozilla"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tartalomblokkolás és követésvédelem a Mozillától"
+          }
+        },
+        "ia" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocada de contentos e protection contra le traciamento per Mozilla"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pemblokiran konten dan perlindungan pelacakan dari Mozilla"
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Útilokun efnis og rakningarvörn frá Mozilla"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocco dei contenuti e protezione antitracciamento da Mozilla"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla によるコンテンツブロッキングと追跡防止"
+          }
+        },
+        "ka" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "შიგთავსის შეზღუდვასა და თვალთვალისგან დაცვას უზრუნველყოფს Mozilla"
+          }
+        },
+        "kab" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asewḥel n ugbur d ummesten mga aḍfar n Mozilla"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla-дан мазмұнды блоктау және бақылаудан қорғаныс"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla의 콘텐츠 차단 및 추적 보호"
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ການຂັດຂວາງເນື້ອຫາແລະການຕິດຕາມການປົກປ້ອງຈາກ Mozilla"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innholdsblokkering og sporingsbeskyttelse fra Mozilla"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inhoudsblokkering en beveiliging tegen volgen van Mozilla"
+          }
+        },
+        "nn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innhaldsblokkering og sporingsvern frå Mozilla"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla ਵਲੋਂ ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਅਤੇ ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokowanie treści i ochrona przed śledzeniem od Mozilli"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueio de conteúdo e proteção contra rastreamento, da Mozilla"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloqueio de conteúdo e proteção contra a monitorização da Mozilla"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Защита от отслеживания и блокировка содержимого от Mozilla"
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "මොසිල්ලා වෙතින් අන්තර්ගත අවහිරය හා ලුහුබැඳීමේ රැකවරණය"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blokovanie obsahu a ochrana pred sledovaním od Mozilly"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozillino zavračanje vsebine in zaščita pred sledenjem"
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bllokim lënde dhe mbrojtje nga gjurmimet, nga Mozilla"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innehållsblockering och spårningsskydd från Mozilla"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การปิดกั้นเนื้อหาและการป้องกันการติดตามจาก Mozilla"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla’dan içerik engelleme ve izlenme koruması"
+          }
+        },
+        "tt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozilla-дан эчтәлекне блоклау һәм күзәтелүдән саклау"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Блокування вмісту та захист від стеження від Mozilla"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trình chặn nội dung và chống theo dõi từ Mozilla"
+          }
+        },
+        "zh-CN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Mozilla 的内容拦截和跟踪保护功能"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "來自 Mozilla 的內容封鎖與追蹤保護功能"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

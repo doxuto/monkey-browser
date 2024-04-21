@@ -16,10 +16,10 @@ protocol AppConfig {
 
 struct FocusAppConfig: AppConfig {
     let adjustFile = "Adjust-Focus"
-    let firefoxAppStoreURL = URL(string: "https://app.adjust.com/gs1ao4")!
-    let productName = "Focus"
+    let firefoxAppStoreURL = URL(string: "http://itunes.apple.com/app/id6499090727")!
+    let productName = "Monkey Private Web Browser"
     let supportPath = "kb/focus"
-    let appId = "1055677337"
+    let appId = "6499090727"
     let wordmark = #imageLiteral(resourceName: "img_focus_wordmark")
 }
 

@@ -32,7 +32,8 @@ class SettingsViewController: UIViewController, UITableViewDataSource, UITableVi
         }
 
         static func getSections() -> [Section] {
-            var sections = [.defaultBrowser, .general, .privacy, .usageData, .studies, .search, .siri, integration, .mozilla]
+            //TODO: - Remove 3 section .defaultBrowser, .usageData, .studies,
+            var sections = [.general, .privacy, .search, .siri, integration, .mozilla]
             if Settings.getToggle(.displaySecretMenu) {
                 sections.append(.secret)
             }
@@ -118,12 +119,14 @@ class SettingsViewController: UIViewController, UITableViewDataSource, UITableVi
                 toggles[privacyIndex] = [1: blockFontsToggle]
             }
         }
-        if let usageDataIndex = getSectionIndex(Section.usageData) {
-            toggles[usageDataIndex] = [0: usageDataToggle]
-        }
-        if let studiesIndex = getSectionIndex(Section.studies) {
-            toggles[studiesIndex] = [0: studiesToggle]
-        }
+        // TODO: Disable Send Usage Data
+//        if let usageDataIndex = getSectionIndex(Section.usageData) {
+//            toggles[usageDataIndex] = [0: usageDataToggle]
+//        }
+    //        if let studiesIndex = getSectionIndex(Section.studies) {
+    //            toggles[studiesIndex] = [0: studiesToggle]
+    //        }
+        
         if let searchIndex = getSectionIndex(Section.search) {
             toggles[searchIndex] = [2: searchSuggestionToggle]
         }
@@ -402,10 +405,11 @@ class SettingsViewController: UIViewController, UITableViewDataSource, UITableVi
                 } else if section == getSectionIndex(.studies) {
                     selector = #selector(tappedLearnMoreStudies)
                 }
-
-                let tapGesture = UITapGestureRecognizer(target: self, action: selector)
-                footer.detailTextButton.setTitle(UIConstants.strings.learnMore, for: .normal)
-                footer.detailTextButton.addGestureRecognizer(tapGesture)
+                footer.detailTextButton.isHidden = true
+//TODO: - Remove learn more button
+//                let tapGesture = UITapGestureRecognizer(target: self, action: selector)
+//                footer.detailTextButton.setTitle(UIConstants.strings.learnMore, for: .normal)
+//                footer.detailTextButton.addGestureRecognizer(tapGesture)
             }
             return footer
         } else if section == getSectionIndex(.defaultBrowser) {

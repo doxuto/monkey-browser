@@ -98,7 +98,7 @@ public struct ShowMeHowOnboardingViewConfig {
 @available(iOS 14.0, *)
 struct ShowMeHowOnboardingView_Previews: PreviewProvider {
     static var previews: some View {
-        ShowMeHowOnboardingView(config: ShowMeHowOnboardingViewConfig(title: "Add a Focus Widget", subtitleStep1: "Long press on the Home screen until the icons start to jiggle.", subtitleStep2: "Tap on the plus icon.", subtitleStep3: "Search for FireFox Focus. Then choose a widget.", buttonText: "Done", widgetText: "Search in Focus"), dismissAction: { })
+        ShowMeHowOnboardingView(config: ShowMeHowOnboardingViewConfig(title: "Add a Monkey Browser Widget", subtitleStep1: "Long press on the Home screen until the icons start to jiggle.", subtitleStep2: "Tap on the plus icon.", subtitleStep3: "Search for FireFox Focus. Then choose a widget.", buttonText: "Done", widgetText: "Search in Monkey Browser"), dismissAction: { })
     }
 }
 

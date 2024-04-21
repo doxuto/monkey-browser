@@ -82,7 +82,8 @@ class AboutViewController: UIViewController, UITableViewDataSource, UITableViewD
         return tableView
     }()
 
-    private var sections = AboutSection.allCases
+    //TODO: - Only Header
+    private var sections = [AboutSection.aboutHeader]
     private let headerView = AboutHeaderView()
 
     override func viewDidLoad() {
@@ -263,6 +264,8 @@ private class AboutHeaderView: UIView {
         addSubview(aboutParagraph)
         addSubview(versionNumber)
         addSubview(learnMoreButton)
+        // TODO: - Remove Learn more button
+        learnMoreButton.isHidden = true
     }
 
     private func configureConstraints() {

@@ -53,7 +53,7 @@ public struct OnboardingSearchWidgetView: View {
 @available(iOS 14, *)
 struct SearchWidgetView_Previews: PreviewProvider {
     static var previews: some View {
-        OnboardingSearchWidgetView(title: "Search in Focus", padding: true, background: true)
+        OnboardingSearchWidgetView(title: "Search in Monkey Browser", padding: true, background: true)
             .previewLayout(.sizeThatFits)
             .frame(width: 135, height: 135)
             .clipShape(RoundedRectangle(cornerRadius: 20))

@@ -240,7 +240,7 @@ class AddSearchEngineViewController: UIViewController, UITextViewDelegate {
 
         showIndicator(true)
 
-        let searchString = template.replacingOccurrences(of: "%s", with: "Firefox Focus".addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)
+        let searchString = template.replacingOccurrences(of: "%s", with: "Monkey Private Web Browser".addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)
 
         guard URL(string: searchString, invalidCharacters: false) != nil else {
             presentRetryError()

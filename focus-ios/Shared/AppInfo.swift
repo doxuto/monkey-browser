@@ -40,7 +40,7 @@ class AppInfo {
     }
 
     static var shortProductName: String {
-        return isKlar ? "Klar" : "Focus"
+        return "Monkey Browser"
     }
 
     /// Return application's ShortVersionString. Like `35`, `38.0` or `38.1.1`. Will crash if the value is missing
@@ -68,7 +68,7 @@ class AppInfo {
 
     static let isKlar: Bool = AppInfo.productName.contains("Klar")
 
-    static let config: AppConfig = AppInfo.isKlar ? KlarAppConfig() : FocusAppConfig()
+    static let config: AppConfig = FocusAppConfig()
 
     open class func isSimulator() -> Bool {
         return ProcessInfo.processInfo.environment["SIMULATOR_ROOT"] != nil

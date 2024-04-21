@@ -104,7 +104,7 @@ struct CardBannerView_Previews: PreviewProvider {
                         subtitle: "We’ll leave you to your private browsing, but get a quicker start next time with the Focus widget on your Home screen.",
                         actionButtonTitle: "Show Me How",
                         widget: .init(
-                            title: "Search in Focus"
+                            title: "Search in Monkey Browser"
                         )),
                     primaryAction: {},
                     dismiss: {}

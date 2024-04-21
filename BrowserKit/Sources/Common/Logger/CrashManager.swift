@@ -44,7 +44,8 @@ public class DefaultCrashManager: CrashManager {
     private var enabled = false
 
     private var shouldSetup: Bool {
-        return !enabled && !isSimulator
+        return false //TODO: - Sentry implement
+//        return !enabled && !isSimulator
     }
 
     private var environment: Environment {

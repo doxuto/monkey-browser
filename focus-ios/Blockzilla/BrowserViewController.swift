@@ -12,6 +12,7 @@ import Combine
 import Onboarding
 import AppShortcuts
 import SwiftUI
+import AVKit
 
 class BrowserViewController: UIViewController {
     private let mainContainerView = UIView(frame: .zero)
@@ -658,8 +659,10 @@ class BrowserViewController: UIViewController {
 
                 switch action {
                     case .contextMenuTap(let anchor):
-                        self.updateFindInPageVisibility(visible: false)
-                        self.presentContextMenu(from: anchor)
+                        self.showSettings()
+                        //TODO: Show Settings screen
+//                        self.updateFindInPageVisibility(visible: false)
+//                        self.presentContextMenu(from: anchor)
 
                     case .backButtonTap:
                         // FXIOS-8626 - #19148 - Integrate basics APIs of WebEngine in Focus iOS
@@ -1512,9 +1515,9 @@ extension BrowserViewController: HomeViewControllerDelegate {
 
     func homeViewControllerDidTapShareTrackers(_ controller: HomeViewController, sender: UIButton) {
         let numberOfTrackersBlocked = getNumberOfLifetimeTrackersBlocked()
-        let appStoreUrl = URL(string: String(format: "https://mzl.la/2GZBav0"), invalidCharacters: false)
+        let appStoreUrl = FocusAppConfig().firefoxAppStoreURL
         // Add space after shareTrackerStatsText to add URL in sentence
-        let shareTrackerStatsText = "%@, the privacy browser from Mozilla, has already blocked %@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here"
+        let shareTrackerStatsText = "%@, the privacy browser from Monkey Private Web Browser, has already blocked %@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here"
         let text = String(format: shareTrackerStatsText + " ", AppInfo.productName, String(numberOfTrackersBlocked))
         let shareController = UIActivityViewController(activityItems: [text, appStoreUrl as Any], applicationActivities: nil)
         // Exact frame dimensions taken from presentPhotonActionSheet

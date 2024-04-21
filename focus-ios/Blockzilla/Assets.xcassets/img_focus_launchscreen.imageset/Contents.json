@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "ic_logo_wordmark_light_horizontal.png",
+      "filename" : "img_focus_launchscreen.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -12,12 +12,12 @@
           "value" : "dark"
         }
       ],
-      "filename" : "img_focus_wordmark.png",
+      "filename" : "img_focus_launchscreen 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ic_logo_wordmark_light_horizontal@2x.png",
+      "filename" : "img_focus_launchscreen@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
@@ -28,12 +28,12 @@
           "value" : "dark"
         }
       ],
-      "filename" : "img_focus_wordmark@2x.png",
+      "filename" : "img_focus_launchscreen@2x 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ic_logo_wordmark_light_horizontal@3x.png",
+      "filename" : "img_focus_launchscreen@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     },
@@ -44,7 +44,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "img_focus_wordmark@3x.png",
+      "filename" : "img_focus_launchscreen@3x 1.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

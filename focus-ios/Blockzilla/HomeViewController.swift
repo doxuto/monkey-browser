@@ -21,7 +21,7 @@ class HomeViewController: UIViewController {
 
     private lazy var textLogo: UIImageView = {
         let textLogo = UIImageView()
-        textLogo.image = AppInfo.isKlar ? #imageLiteral(resourceName: "img_klar_wordmark") : #imageLiteral(resourceName: "img_focus_wordmark")
+        textLogo.image = #imageLiteral(resourceName: "img_focus_wordmark")
         textLogo.contentMode = .scaleAspectFit
         textLogo.translatesAutoresizingMaskIntoConstraints = false
         return textLogo
@@ -65,7 +65,7 @@ class HomeViewController: UIViewController {
 
         NSLayoutConstraint.activate([
             textLogo.centerXAnchor.constraint(equalTo: self.view.centerXAnchor),
-            textLogo.topAnchor.constraint(equalTo: self.view.centerYAnchor, constant: UIConstants.layout.textLogoOffset),
+            textLogo.centerYAnchor.constraint(equalTo: self.view.centerYAnchor),
             textLogo.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant: UIConstants.layout.textLogoMargin),
             textLogo.trailingAnchor.constraint(equalTo: self.view.trailingAnchor, constant: -UIConstants.layout.textLogoMargin)
         ])

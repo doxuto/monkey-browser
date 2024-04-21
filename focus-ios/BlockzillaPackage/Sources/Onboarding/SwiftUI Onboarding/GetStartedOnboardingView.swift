@@ -26,6 +26,8 @@ struct GetStartedOnboardingView: View {
 
                 VStack {
                     Image.logo
+                        .resizable()
+                        .scaledToFit()
 
                     Text(viewModel.config.title)
                         .font(.title28Bold)
@@ -97,13 +99,13 @@ struct FirstOnboardingView_Previews: PreviewProvider {
 internal extension OnboardingViewModel {
     static let dummy: OnboardingViewModel = .init(
         config: GetStartedOnboardingViewConfig(
-            title: "Welcome to Firefox Focus",
+            title: "Welcome to Monkey Private Web Browser",
             subtitle: "Fast. Private. No distractions.",
             buttonTitle: "Get Started"),
         defaultBrowserConfig: DefaultBrowserViewConfig(
-            title: "Focus isn't like other browsers",
+            title: "Monkey Private Web Browser isn't like other browsers",
             firstSubtitle: "We clear your history when you close the app for extra privacy",
-            secondSubtitle: "Make Focus your default to protect your data with every link you open.",
+            secondSubtitle: "Make Monkey Private Web Browser your default to protect your data with every link you open.",
             topButtonTitle: "Set as Default Browser",
             bottomButtonTitle: "Skip"), dismissAction: {}, telemetry: { _ in })
 }

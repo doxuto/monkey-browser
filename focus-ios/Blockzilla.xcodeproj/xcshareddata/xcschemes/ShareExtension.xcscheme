@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1340"
+   LastUpgradeVersion = "1520"
    wasCreatedForAppExtension = "YES"
    version = "2.0">
    <BuildAction
@@ -30,7 +30,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4BF2DD21BACE8CA00DA9D68"
-               BuildableName = "Firefox Focus.app"
+               BuildableName = "Monkey Browser.app"
                BlueprintName = "Blockzilla"
                ReferencedContainer = "container:Blockzilla.xcodeproj">
             </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4BF2DD21BACE8CA00DA9D68"
-            BuildableName = "Firefox Focus.app"
+            BuildableName = "Monkey Browser.app"
             BlueprintName = "Blockzilla"
             ReferencedContainer = "container:Blockzilla.xcodeproj">
          </BuildableReference>
@@ -74,14 +74,13 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES"
-      askForAppToLaunch = "Yes"
       launchAutomaticallySubstyle = "2">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4BF2DD21BACE8CA00DA9D68"
-            BuildableName = "Firefox Focus.app"
+            BuildableName = "Monkey Browser.app"
             BlueprintName = "Blockzilla"
             ReferencedContainer = "container:Blockzilla.xcodeproj">
          </BuildableReference>

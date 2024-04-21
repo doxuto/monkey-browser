@@ -1,0 +1,1440 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "TodayWidget.QuickActionGalleryDescription" : {
+      "comment" : "Description for small size widget to add it to home screen. %@ is the name of the app(Monkey Private Web Browser).",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "በመነሻ ማያዎ ላይ የ%@ አቋራጭ ያክሉ። መግብርን ካከሉ በኋላ ለማርትዕ ይንኩ እና ይያዙ እና የተለየ አቋራጭ ይምረጡ።"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дадайце цэтлік %@ на галоўны экран. Пасля дадавання віджэта, націсніце і ўтрымлівайце, каб адрэдагаваць яго і выбраць іншы цэтлік."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавете %@ пряк път към вашия начален екран. След като добавите джаджата, докоснете и задръжте, за да го редактирате и изберете различен пряк път."
+          }
+        },
+        "br" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouzhpennit ur verradenn %@ d’ho skramm degemer. Goude bezañ ouzhpennet ar widjed, stokit ha dalc’hit evit kemmañ ha diuzit ur verradenn all."
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodajte %@ prečicu na vaš početni ekran. Nakon što dodate widget, dodirnite i držite da ga uredite i odaberete drugu prečicu."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afegiu una drecera del %@ a la pantalla d'inici. Després d'afegir el giny, manteniu-lo premut per editar-lo i triar una altra drecera."
+          }
+        },
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aghjunghjite un accurtatoghju %@ à u vostru screnu d’accolta. Dopu l’aghjuntu di u widget, tuccatelu è mantenelu per mudificallu è selezziunate un altru accurtatoghju."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidejte si zkratku aplikace %@ na domovskou obrazovku. Pro úpravu nebo výběr jiné zkratky na widgetu podržte prst."
+          }
+        },
+        "cy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ychwanegwch llwybr byr %@ i'ch sgrin Cartref. Ar ôl ychwanegu'r teclyn, cyffwrdd a dal i'w olygu a dewis llwybr byr gwahanol."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj en %@-genvej til din startskærm. Efter at du har tilføjet en ny widget, skal du trykke og holde for at redigere den og vælge en anden genvej."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fügen Sie Ihrem Startbildschirm eine %@-Verknüpfung hinzu. Nachdem Sie das Widget hinzugefügt haben, berühren und halten Sie es, um es zu bearbeiten und eine andere Verknüpfung auszuwählen."
+          }
+        },
+        "dsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pśidajśo startowej wobrazowce zwězanje %@. Za tym až sćo pśidał asistent, pótusniśo asistent a źaržćo jen, aby wobźěłował a wubjeŕśo druge zwězanje."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθέστε μια συντόμευση %@ στην αρχική οθόνη. Αφού προσθέσετε το widget, πατήστε παρατεταμένα για επεξεργασία και επιλογή διαφορετικής συντόμευσης."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut."
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut."
+          }
+        },
+        "eo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aldonu ŝparvojon de %@ al via hejmekrano. Post la aldono de la elemento, tuŝu longe por modifi ĝin kaj elekti alian ŝparvojon."
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar un atajo de %@ a la pantalla de inicio. Después de agregar el widget, tocar y mantener presionado para editarlo y seleccionar un atajo diferente."
+          }
+        },
+        "es-CL" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agrega un atajo de %@ a tu pantalla de inicio. Después de añadir el widget, tocalo y mantenlo presionado para editarlo y seleccionar un acceso directo diferente."
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade un acceso directo %@ a tu pantalla de inicio. Después de añadir el widget, toca y mantenlo presionado para editar y seleccionar un acceso directo diferente."
+          }
+        },
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agrega un atajo de %@ a tu pantalla de inicio. Después de agregar el widget, tócalo y mantenlo presionado para editarlo y seleccionar un acceso directo diferente."
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gehitu %@(e)rako lasterbidea zure hasierako pantailan. Widgeta gehitu bezain laster, sakatu eta mantendu lasterbidea editatu eta beste bat hautatzeko."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää %@ -oikotie kotinäyttöön. Kun olet lisännyt widgetin, kosketa pitkään muokataksesi sitä ja valitse toinen oikotie."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajoutez un raccourci %@ à votre écran d’accueil. Après avoir ajouté le widget, appuyez de manière prolongée pour le modifier et sélectionnez un autre raccourci."
+          }
+        },
+        "gd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuir ath-ghoirid %@ ris an sgrìn-dhachaigh agad. An dèidh dhut a’ widget a chur ris, bean ris is cùm e airson a dheasachadh agus ath-ghoirid eadar-dhealaichte a thaghadh."
+          }
+        },
+        "gl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engada un atallo de %@ á súa pantalla de inicio. Despois de engadir o widget, manteña premido para editalo e seleccione un atallo diferente."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ניתן להוסיף קיצור דרך ל־%@ למסך הבית שלך. לאחר הוספת הוידג’ט, יש ללחוץ ולהחזיק כדי לערוך אותו ולבחור בקיצור דרך שונה."
+          }
+        },
+        "hsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidajće startowej wobrazowce zwjazanje %@. Po tym zo sće asistent přidał, podótkńće so asistenta a dźeržće jón, zo byšće wobdźěłował a wubjerće druhe zwjazanje."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjon egy %@ ikont a kezdőképernyőhöz. A widget hozzáadása után érintse meg és tartsa lenyomva a szerkesztéshez, majd válasszon egy másik ikont."
+          }
+        },
+        "ia" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adde un via-breve pro %@ a tu Pagina initial. Post le addition del widget, tocca e retene pro modificar lo e elige un differente via-breve."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambahkan pintasan %@ ke layar Beranda Anda. Setelah menambahkan widget, sentuh dan tahan untuk mengeditnya lalu pilih pintasan yang berbeda."
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bættu %@-flýtileið við upphafsskjáinn þinn. Eftir að græjunni hefur verið bætt við skaltu ýta og halda inni til að breyta henni og velja aðra flýtileið."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi alla schermata principale un collegamento a %@. Dopo aver aggiunto il widget, toccalo tenendo premuto per modificarlo e selezionare un collegamento diverso."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ のショートカットをホーム画面に追加します。ウィジェットを追加したら、長押しして編集し、別のショートカットを選択します。"
+          }
+        },
+        "ka" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "დაამატეთ %@-მალსახმობი მთავარ ეკრანზე. დამატების შემდგომ დიდხანს შეეხეთ ჩასასწორებლად ან სხვა მალსახმობის შესარჩევად."
+          }
+        },
+        "kab" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rnu anegzum n %@ ɣer ugdil-ik·im agejdan. Seld timerna n uwiǧit, sit s useɣzef i wakken ad t-tẓergeḍ syen ad tferneḍ anegzum-nniḍen."
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ жарлығын үй экранына қосыңыз. Виджетті қосқаннан кейін, оны түзету үшін тиіп, басулы ұстаңыз және басқа жарлықты таңдаңыз."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "홈 화면에 %@ 바로 가기를 추가하세요. 위젯을 추가한 후, 길게 터치하여 수정 및 다른 바로 가기를 선택하세요."
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ເພີ່ມທາງລັດ %@ ໃສ່ໜ້າຈໍຫຼັກຂອງທ່ານ. ຫຼັງຈາກເພີ່ມວິດເຈັດ, ແຕະຄ້າງໄວ້ເພື່ອແກ້ໄຂ ແລະເລືອກທາງລັດອື່ນ."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legg til en %@-snarvei til hjem-skjermen. Når du har lagt til widgeten, trykker du på og holder nede for å redigere den og velger en annen snarvei."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg een %@-snelkoppeling toe aan uw startscherm. Houd, nadat u deze hebt toegevoegd, de widget ingedrukt om deze te bewerken en een andere snelkoppeling te selecteren."
+          }
+        },
+        "nn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legg til ein %@-snarveg til heim-skjermen. Når du har lagt til widgeten, trykkjer du på og held nede, for å redigere han og vel ein annan snarveg."
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ %@ ਜੋੜੋ। ਵਿਜੈਟ ਜੋੜਨ ਦੇ ਬਾਅਦ ਇਸ ਨੂੰ ਸੋਧਣ ਲਈ ਛੂਹ ਕੇ ਰੱਖੋ ਅਤੇ ਵੱਖਰਾ ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ।"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj skrót %@ do ekranu głównego. Po dodaniu widżetu dotknij i przytrzymaj go, by go zmienić i wybrać inny skrót."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adiciona um atalho do %@ à tela inicial. Após adicionar o widget, mantenha pressionado para editar e selecionar um atalho diferente."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicione um atalho do %@ ao seu ecrã inicial. Depois de adicionar o widget, faça um toque longo para o editar e selecione um atalho diferente."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить ярлык %@ на Домашний экран. После добавления виджета совершите долгое нажатие, чтобы отредактировать его и выбрать другой ярлык."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pridajte si na plochu skratku pre %@. Po pridaní miniaplikácie ju upravte ťuknutím a podržaním a vyberte inú skratku."
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodajte bližnjico do %@a na domači zaslon. Po dodajanju pripomočka se ga dotaknite in pridržite, da ga uredite in izberete drugo bližnjico."
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shtoni një shkurtore %@ për te skena juaj Kreu. Pasi të shtohet widget-i, prekeni dhe mbajeni të prekur, që ta përpunoni dhe të përzgjidhni një tjetër shkurtore."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till en %@-genväg på startskärmen. När du har lagt till widgeten, trycker du och håller ned för att redigera den och väljer en annan genväg."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มทางลัด %@ ลงในหน้าจอโฮมของคุณ หลังจากเพิ่มวิดเจ็ตแล้ว ให้แตะค้างไว้เพื่อแก้ไขและเลือกทางลัดอื่น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana ekranınıza %@ kısayolu ekleyin. Araç takımını ekledikten sonra düzenlemek isterseniz basılı tutup farklı bir kısayol seçebilirsiniz."
+          }
+        },
+        "tt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Өй экранына %@ ярлыгын өстәгез. Виджетны өстәгәннән соң, аны үзгәртү өчен өстенә басып торыгыз һәм бүтән бер ярлык сайлагыз."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте ярлик %@ на головний екран. Після додавання віджета торкніться й утримуйте, щоб змінити його та вибрати інший ярлик."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm lối tắt %@ vào màn hình chính của bạn. Sau khi thêm tiện ích, hãy nhấn và giữ để chỉnh sửa tiện ích và chọn một lối tắt khác."
+          }
+        },
+        "zh-CN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 %@ 快捷指令添加至主屏幕。添加后按住小组件进行编辑，可选择其他快捷指令。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把 %@ 捷徑加到主畫面。新增小工具之後，請長按小工具選擇不同的捷徑。"
+          }
+        }
+      }
+    },
+    "TodayWidget.QuickActionGalleryDescriptionV2" : {
+      "comment" : "Description for small size widget to add it to home screen. %@ is the name of the app(Monkey Private Web Browser).",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "በነባሪ የፍለጋ ፍርግምዎ በ%@ ውስጥ የግል ፍለጋ ይጀምሩ።"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пачніце прыватны пошук у %@ з дапамогай прадвызначанай пошукавай сістэмы."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Започнете частно търсене в %@ с търсачката си по подразбиране."
+          }
+        },
+        "br" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loc'hañ ur c’hlask prevez e %@ gant ho keflusker enklask dre ziouer."
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Započnite privatno pretraživanje u %@u sa vašom zadanom tražilicom."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicieu una cerca privada en el %@ amb el vostre motor de cerca per defecte."
+          }
+        },
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Principià una ricerca privata in %@ cù u vostru mutore di ricerca predefinitu."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začne anonymní vyhledávání ve vašem výchozím vyhledávači v aplikaci %@."
+          }
+        },
+        "cy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cychwyn chwilio preifat yn %@ gyda'ch peiriant chwilio rhagosodedig."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start en privat søgning i %@ med din standardsøgemaskine."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starten Sie eine private Suche in %@ mit Ihrer Standardsuchmaschine."
+          }
+        },
+        "dsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zachopśo priwatne pytanje w %@ ze swójeju standardneju pytnicu."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκινήστε μια ιδιωτική αναζήτηση στο %@ με την προεπιλεγμένη μηχανή αναζήτησής σας."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start a private search in %@ with your default search engine."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start a private search in %@ with your default search engine."
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start a private search in %@ with your default search engine."
+          }
+        },
+        "eo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komenci privatan serĉon en %@ per via norma serĉilo."
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciá una búsqueda privada en %@ con su motor de búsqueda predeterminado."
+          }
+        },
+        "es-CL" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicia una búsqueda privada en %@ con tu motor de búsqueda predeterminado."
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comienza una búsqueda privada en %@ con tu buscador predeterminado."
+          }
+        },
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicia una búsqueda privada en %@ con tu motor de búsqueda predeterminado."
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasi %@ bilaketa pribatu batekin zure bilaketa-motor lehenetsia erabiliz."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloita yksityinen haku %@issa oletushakukoneesi avulla."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancer une recherche privée dans %@ avec votre moteur de recherche par défaut."
+          }
+        },
+        "gd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tòisich air lorg prìobhaideach ann am %@ leis an einnsean-luirg bhunaiteach agad."
+          }
+        },
+        "gl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie unha busca privada en %@ co seu motor de busca predeterminado."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ביצוע חיפוש פרטי ב־%@ עם מנוע חיפוש ברירת המחדל שלך."
+          }
+        },
+        "hsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Započńće priwatne pytanje w %@ ze swojej standardnej pytawu."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indítson privát keresést a %@ban az alapértelmezett keresőszolgáltatásával."
+          }
+        },
+        "ia" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancea un recerca private in %@ con tu motor de recerca predefinite."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mulai pencarian pribadi di %@ dengan mesin pencari baku Anda."
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Byrjaðu einkaleit í %@ með sjálfgefnu leitarvélinni þinni."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avvia una ricerca privata in %@ con il tuo motore di ricerca predefinito."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ のデフォルト検索エンジンでプライベート検索を開始します。"
+          }
+        },
+        "ka" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "გამოიყენეთ %@-ის პირადი ფანჯარა სასურველი საძიებოთი."
+          }
+        },
+        "kab" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bdu anadi uslig deg %@ s umsedday-ik·im n unadi amezwer."
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Негізгі іздеу жүйесімен %@ арқылы жекелік іздеуді бастаңыз."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 검색 엔진으로 %@에서 비공개 검색을 시작하세요."
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ເລີ່ມການຄົ້ນຫາສ່ວນຕົວໃນ %@ ດ້ວຍເຄື່ອງຈັກຊອກຫາເລີ່ມຕົ້ນຂອງທ່ານ."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start et privat søk i %@ med standard søkemotor."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een privézoekopdracht in %@ met uw standaardzoekmachine starten."
+          }
+        },
+        "nn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start eit privat søk i %@ med standard søkjemotor."
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਆਪਣੇ ਮੂਲ ਖੋਜ ਇੰਜਣ ਨਾਲ %@ ਵਿੱਚ ਨਿੱਜੀ ਖੋਜ ਸ਼ੁਰੂ ਕਰੋ।"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyszukaj prywatnie w %@ za pomocą domyślnej wyszukiwarki."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar uma pesquisa privativa no %@ com seu mecanismo de pesquisa padrão."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie uma pesquisa privada em %@ com o seu motor de pesquisa predefinido."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запустите приватный поиск в %@ с помощью поисковой системы по умолчанию."
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පෙරනිමි සෙවුම් යන්ත්‍රය සමඟින් %@ හි පෞද්ගලික සෙවුමක් අරඹන්න."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začnite súkromné vyhľadávanie v prehliadači %@ pomocou vášho predvoleného vyhľadávacieho modulu."
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začnite zasebno iskanje v %@u s privzetim iskalnikom."
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filloni një kërkim privat në %@ me motorin tuaj parazgjedhje për kërkime."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starta en privat sökning i %@ med din standardsökmotor."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่มการค้นหาส่วนตัวใน %@ ด้วยเครื่องมือค้นหาเริ่มต้นของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsayılan arama motorunuzla %@ uygulamasında gizli gezinti başlatın."
+          }
+        },
+        "tt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Үзегезнең стандарт эзләү системасы ярдәмендә %@ кушымтасында хосусый эзләү башлагыз."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Почніть приватний пошук у %@ за допомогою типової пошукової системи."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bắt đầu tìm kiếm riêng tư trong %@ bằng công cụ tìm kiếm mặc định của bạn."
+          }
+        },
+        "zh-CN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 %@ 上使用您的默认搜索引擎进行隐私搜索。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以 %@ 使用您的預設搜尋引擎進行隱私搜尋。"
+          }
+        }
+      }
+    },
+    "TodayWidget.QuickActionsGalleryTitle" : {
+      "comment" : "Quick Actions title when widget enters edit mode",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ፈጣን እርምጃዎች"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хуткія дзеянні"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бързи действия"
+          }
+        },
+        "br" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oberoù prim"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brze akcije"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accions ràpides"
+          }
+        },
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Azzioni preste"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rychlé akce"
+          }
+        },
+        "cy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gweithredoedd Cyflym"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hurtige handlinger"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schnellaktionen"
+          }
+        },
+        "dsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malsne akcije"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γρήγορες ενέργειες"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quick Actions"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Actions"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Actions"
+          }
+        },
+        "eo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapidaj agoj"
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones rápidas"
+          }
+        },
+        "es-CL" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones rápidas"
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones rápidas"
+          }
+        },
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones rápidas"
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekintza bizkorrak"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pikatoiminnot"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions rapides"
+          }
+        },
+        "gd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grad-ghnìomhan"
+          }
+        },
+        "gl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accións rápidas"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פעולות מהירות"
+          }
+        },
+        "hsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spěšne akcije"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gyors műveletek"
+          }
+        },
+        "ia" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actiones rapide"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tindakan Cepat"
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flýtiaðgerðir"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Azioni rapide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クイックアクション"
+          }
+        },
+        "ka" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "სწრაფი მოქმედებები"
+          }
+        },
+        "kab" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tigawin tiruradin"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жылдам әрекеттер"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "빠른 작업"
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ການກະທຳດ່ວນ"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hurtige handlinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snelle acties"
+          }
+        },
+        "nn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snøgghandlingar"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Szybkie działania"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ações rápidas"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ações rápidas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Быстрые действия"
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඉක්මන් ක්‍රියාමාර්ග"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rýchle akcie"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hitra dejanja"
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veprime të Shpejta"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snabbåtgärder"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การกระทำด่วน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hızlı Eylemler"
+          }
+        },
+        "tt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тиз гамәлләр"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швидкі дії"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hành động nhanh"
+          }
+        },
+        "zh-CN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快捷操作"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快速操作"
+          }
+        }
+      }
+    },
+    "TodayWidget.SearchInApp" : {
+      "comment" : "Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Monkey Private Web Browser).",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "በ%@ ውስጥ ይፈልጉ"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шукаць у %@"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Търсене в %@"
+          }
+        },
+        "br" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klask e %@"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traži u %@u"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca en el %@"
+          }
+        },
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Circà in %@"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hledat v aplikaci %@"
+          }
+        },
+        "cy" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chwilio yn %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Søg i %@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In %@ suchen"
+          }
+        },
+        "dsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W %@ pytaś"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αναζήτηση στο %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search in %@"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search in %@"
+          }
+        },
+        "en-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search in %@"
+          }
+        },
+        "eo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serĉi per %@"
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en %@"
+          }
+        },
+        "es-CL" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en %@"
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en %@"
+          }
+        },
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en %@"
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilatu %@ erabiliz"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hae %@issa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher dans %@"
+          }
+        },
+        "gd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lorg le %@"
+          }
+        },
+        "gl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar en %@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "חיפוש ב־%@"
+          }
+        },
+        "hsb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W %@ pytać"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keresés ebben: %@"
+          }
+        },
+        "ia" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cercar in %@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cari di %@"
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leita í %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca in %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ で検索"
+          }
+        },
+        "ka" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ძიება – %@"
+          }
+        },
+        "kab" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nadi deg %@"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ көмегімен іздеу"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@에서 검색"
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ຊອກຫາໃນ %@"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Søk i %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoeken in %@"
+          }
+        },
+        "nn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Søk i %@"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ਵਿੱਚ ਲੱਭੋ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyszukaj w %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisar no %@"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisar %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск в %@"
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ හි සොයන්න"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hľadať v prehliadači %@"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Išči v %@u"
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kërkoni në %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sök i %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค้นหาใน %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ile ara"
+          }
+        },
+        "tt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ярдәмендә эзләү"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шукати у %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm kiếm trong %@"
+          }
+        },
+        "zh-CN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ · 搜索"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 %@ 搜尋"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

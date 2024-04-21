@@ -63,19 +63,18 @@ struct FocusWidgets_Previews: PreviewProvider {
 
 fileprivate extension String {
     static var appNameForBundle: String {
-        var isKlar: Bool { return (Bundle.main.infoDictionary!["CFBundleIdentifier"] as! String).contains("Klar") }
-        return isKlar ? "Klar" : "Focus"
+        return "Monkey Browser"
     }
     // Quick Action - Small Size - Gallery View
     static let quickActionGalleryDescriptionV2 = NSLocalizedString(
         "TodayWidget.QuickActionGalleryDescriptionV2",
         value: "Start a private search in %@ with your default search engine.",
-        comment: "Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).")
+        comment: "Description for small size widget to add it to home screen. %@ is the name of the app(Monkey Private Web Browser).")
 
     static let quickActionGalleryDescription = NSLocalizedString(
         "TodayWidget.QuickActionGalleryDescription",
         value: "Add a %@ shortcut to your Home screen. After adding the widget, touch and hold to edit it and select a different shortcut.",
-        comment: "Description for small size widget to add it to home screen. %@ is the name of the app(Focus/Klar).")
+        comment: "Description for small size widget to add it to home screen. %@ is the name of the app(Monkey Private Web Browser).")
 
     static let quickActionsGalleryTitle = NSLocalizedString(
         "TodayWidget.QuickActionsGalleryTitle",
@@ -85,7 +84,7 @@ fileprivate extension String {
     static let searchInAppFormat = NSLocalizedString(
         "TodayWidget.SearchInApp",
         value: "Search in %@",
-        comment: "Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).")
+        comment: "Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Monkey Private Web Browser).")
     static let searchInApp = String(format: searchInAppFormat, AppInfo.shortProductName)
 }
 
@@ -100,7 +99,7 @@ fileprivate extension Bool {
 }
 
 fileprivate extension URL {
-    static let deepLinkURL = URL(string: "firefox-focus://widget")!
+    static let deepLinkURL = URL(string: "monkey-browser://widget")!
 }
 
 fileprivate extension View {

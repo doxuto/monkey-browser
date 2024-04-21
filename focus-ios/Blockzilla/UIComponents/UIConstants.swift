@@ -155,7 +155,7 @@ struct UIConstants {
 
     struct strings {
         static let aboutLearnMoreButton = NSLocalizedString("About.learnMoreButton", value: "Learn more", comment: "Button on About screen")
-        static let aboutMissionLabel = NSLocalizedString("About.missionLabel", value: "%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.", comment: "Label on About screen")
+        static let aboutMissionLabel = NSLocalizedString("About.missionLabel", value: "%@ is built from open source public by Mozilla. Our mission is to foster a healthy, open Internet.", comment: "Label on About screen")
         static let aboutPrivateBulletHeader = NSLocalizedString("About.privateBulletHeader", value: "Use it as a private browser:", comment: "Label on About screen")
         static let aboutPrivateBullet1 = NSLocalizedString("About.privateBullet1", value: "Search and browse right in the app", comment: "Label on About screen")
         static let aboutPrivateBullet2 = NSLocalizedString("About.privateBullet2", value: "Block trackers (or update settings to allow trackers)", comment: "Label on About screen")
@@ -198,10 +198,10 @@ struct UIConstants {
         static let labelBlockOther = NSLocalizedString("Settings.toggleBlockOther2", value: "Content", comment: "Label for the checkbox to toggle Other trackers")
         static let labelBlockFonts = NSLocalizedString("Settings.toggleBlockFonts", value: "Block web fonts", comment: "Label for toggle on main screen")
         static let labelSendAnonymousUsageData = NSLocalizedString("Settings.toggleSendUsageData", value: "Send usage data", comment: "Label for Send Usage Data toggle on main screen")
-        static let detailTextSendUsageData = NSLocalizedString("Settings.detailTextSendUsageData", value: "Mozilla strives to collect only what we need to provide and improve %@ for everyone.", comment: "Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar)")
+        static let detailTextSendUsageData = NSLocalizedString("Settings.detailTextSendUsageData", value: "Mozilla strives to collect only what we need to provide and improve %@ for everyone.", comment: "Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Monkey Private Web Browser)")
 
         static let labelStudies = NSLocalizedString("Settings.toggleStudies", value: "Studies", comment: "Label for Studies toggle on the settings screen")
-        static let detailTextStudies = NSLocalizedString("Settings.detailTextStudies", value: "%@ may install and run studies from time to time.", comment: "Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar)")
+        static let detailTextStudies = NSLocalizedString("Settings.detailTextStudies", value: "%@ may install and run studies from time to time.", comment: "Description associated to the Studies toggle on the settings screen. %@ is the app name (Monkey Private Web Browser)")
 
         static let general = NSLocalizedString("Settings.general", value: "General", comment: "Title for section in settings menu")
         static let theme = NSLocalizedString("Settings.theme", value: "Theme", comment: "Theme section in settings menu")
@@ -230,7 +230,7 @@ struct UIConstants {
         static let settingsSearchTitle = NSLocalizedString("Settings.searchTitle2", value: "SEARCH", comment: "Title for the search selection screen")
         static let settingsSearchLabel = NSLocalizedString("Settings.searchLabel", value: "Search Engine", comment: "Label for the search engine in the search screen")
         static let settingsSearchSuggestions = NSLocalizedString("Settings.searchSuggestions", value: "Get Search Suggestions", comment: "Label for the Search Suggestions toggle row")
-        static let detailTextSearchSuggestion = NSLocalizedString("Settings.detailTextSearchSuggestion", value: "%@ will send what you type in the address bar to your search engine.", comment: "Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar)")
+        static let detailTextSearchSuggestion = NSLocalizedString("Settings.detailTextSearchSuggestion", value: "%@ will send what you type in the address bar to your search engine.", comment: "Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Monkey Private Web Browser)")
         static let settingsAutocompleteSection = NSLocalizedString("Settings.autocompleteSection", value: "URL Autocomplete", comment: "Title for the URL Autocomplete row")
         static let settingsTitle = NSLocalizedString("Settings.screenTitle", value: "Settings", comment: "Title for settings screen")
         static let settingsTrackingProtectionOn = NSLocalizedString("Settings.trackingProtectionOn", value: "On", comment: "Status on for tracking protection in settings screen")
@@ -240,7 +240,7 @@ struct UIConstants {
         static let learnMore = NSLocalizedString("Settings.learnMore", value: "Learn more.", comment: "Subtitle for Send Anonymous Usage Data toggle on main screen")
         static let toggleHomeScreenTips = NSLocalizedString("Settings.toggleHomeScreenTips", value: "Show home screen tips", comment: "Show home screen tips toggle label on settings screen")
         static let toggleSectionSafari = NSLocalizedString("Settings.safariTitle", value: "SAFARI INTEGRATION", comment: "Label for Safari integration section")
-        static let toggleSectionMozilla = NSLocalizedString("Settings.sectionMozilla", value: "MOZILLA", comment: "Section label for Mozilla toggles")
+        static let toggleSectionMozilla = NSLocalizedString("Settings.sectionMozilla", value: "Monkey Browser", comment: "Section label for Mozilla toggles")
         static let toggleSectionPrivacy = NSLocalizedString("Settings.sectionPrivacy", value: "PRIVACY", comment: "Section label for privacy toggles")
         static let toggleSafari = NSLocalizedString("Settings.toggleSafari", value: "Safari", comment: "Safari toggle label on settings screen")
         static let urlTextPlaceholder = NSLocalizedString("URL.placeholderText", value: "Search or enter address", comment: "Placeholder text shown in the URL bar before the user navigates to a page")
@@ -348,16 +348,16 @@ struct UIConstants {
         static let tooltipBodyTextStartPrivateBrowsing = NSLocalizedString("TooltipBodyText.SearchBar", value: "Start your private browsing session, and we’ll block trackers and other bad stuff as you go.", comment: "This is the body text that is displayed for the Search Bar tooltip")
         static let tooltipBodyTextForTrashIcon = NSLocalizedString("TooltipBodyText.TrashIcon", value: "Tap the trash anytime to remove all traces of your current session.", comment: "This is the body text that is displayed for the Trash icon tooltip")
         static let tooltipBodyTextForTrashIconV2 = NSLocalizedString("TooltipBodyText.TrashIcon.V2", value: "Tap here to trash it all — history, cookies, everything — and start fresh on a new tab.", comment: "This is the body text that is displayed for the Trash icon tooltip")
-        static let titleShowMeHowOnboardingV2 = String(format: NSLocalizedString("ShowMeHowOnboarding.Title.V2", value: "Add a %@ Widget", comment: "This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar)"), AppInfo.shortProductName)
+        static let titleShowMeHowOnboardingV2 = String(format: NSLocalizedString("ShowMeHowOnboarding.Title.V2", value: "Add a %@ Widget", comment: "This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Monkey Private Web Browser)"), AppInfo.shortProductName)
         static let subtitleStepOneShowMeHowOnboardingV2 = NSLocalizedString("ShowMeHowOnboarding.SubtitleStepOne.V2", value: "Long press on the Home screen until the icons start to jiggle.", comment: "This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen")
         static let subtitleStepTwoShowMeHowOnboardingV2 = NSLocalizedString("ShowMeHowOnboarding.SubtitleStepTwo.V2", value: "Tap on the plus icon.", comment: "This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen")
-        static let subtitleStepThreeShowMeHowOnboardingV2 = String(format: NSLocalizedString("ShowMeHowOnboarding.SubtitleStepThree.V2", value: "Search for %@. Then choose a widget.", comment: "This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar)"), AppInfo.shortProductName)
+        static let subtitleStepThreeShowMeHowOnboardingV2 = String(format: NSLocalizedString("ShowMeHowOnboarding.SubtitleStepThree.V2", value: "Search for %@. Then choose a widget.", comment: "This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Monkey Private Web Browser)"), AppInfo.shortProductName)
         static let buttonTextShowMeHowOnboardingV2 = NSLocalizedString("ShowMeHowOnboarding.ButtonText.V2", value: "Done", comment: "This is the button text that is displayed in the Show Me How Onboarding Screen")
 
         static let searchInAppFormatInstruction = NSLocalizedString(
             "TodayWidget.SearchInApp.Instruction",
             value: "Search in %@",
-            comment: "Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar).")
+            comment: "Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Monkey Private Web Browser).")
         static let searchInAppInstruction = String(format: searchInAppFormatInstruction, AppInfo.shortProductName)
 
         public static let widgetOnboardingCardTitle = NSLocalizedString(
@@ -368,7 +368,7 @@ struct UIConstants {
         public static let widgetOnboardingCardSubtitle = String(format: NSLocalizedString(
                 "WidgetOnboardingCard.Subtitle",
                 value: "We’ll leave you to your private browsing, but get a quicker start next time with the %@ widget on your Home screen.",
-                comment: "Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar)."), AppInfo.shortProductName)
+                comment: "Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Monkey Private Web Browser)."), AppInfo.shortProductName)
 
         public static let widgetOnboardingCardActionButton = NSLocalizedString(
                 "WidgetOnboardingCard.ActionButton",

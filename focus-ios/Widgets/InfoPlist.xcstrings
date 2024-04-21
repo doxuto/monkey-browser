@@ -1,0 +1,138 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSHumanReadableCopyright" : {
+      "comment" : "Copyright (human-readable)",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "co" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Tutti i diritti riservati."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Alle Rechte vorbehalten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πνευματικά δικαιώματα © 2022 Mozilla. Με την επιφύλαξη παντός δικαιώματος."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. All rights reserved."
+          }
+        },
+        "es-AR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derechos de autor © 2022 Mozilla. Reservados todos los derechos."
+          }
+        },
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Todos los derechos reservados."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "זכויות יוצרים © 2022 Mozilla. כל הזכויות שמורות."
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Höfundarréttur © 2022 Mozilla. Allur réttur áskilinn."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Tutti i diritti riservati."
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторлық құқықтары © 2022 Mozilla. Барлық құқықтары қорғалған."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. All rights reserved."
+          }
+        },
+        "lo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ສະຫງວນລິຂະສິດ © 2022 Mozilla. ສະຫງວນລິຂະສິດທັງໝົດ."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Med enerett."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Todos os direitos reservados."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторские права © 2022 Mozilla. Все права защищены."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Všetky práva vyhradené."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Alla rättigheter förbehållna."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. Tüm hakları saklıdır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторське право © 2022 Mozilla. Всі права захищені."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bản quyền © 2022 Mozilla. Mọi quyền đều được bảo lưu."
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2022 Mozilla. 保留所有權利。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

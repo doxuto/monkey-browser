@@ -23,7 +23,7 @@ class DefaultLoggerFileManager: LoggerFileManager {
 
     var logDirectoryPath: String?
 
-    init(fileNameRoot: String = "Firefox",
+    init(fileNameRoot: String = "MonkeyPrivateWebBrowser",
          fileManager: FileManagerProtocol = FileManager.default,
          sizeLimit: Int64 = TwoMBsInBytes) {
         self.fileNameRoot = fileNameRoot
